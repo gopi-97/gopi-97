@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gopi-97
-- 👀 I’m interested in ...app development..
+- 👀 I’m interested in ...data analysis , AI AND ML
 - 🌱 I’m currently BCA student ...
 - 💞️ I’m looking to collaborate on ...skill development programs and projects...
 - 📫 How to reach me ...through my email.
