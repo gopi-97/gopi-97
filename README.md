@@ -8,9 +8,9 @@ Python, data analysis,
 machine learning,
 and mathematics.</i>
 I'm enthusiastic about leveraging data to derive insights and solve real-world problems.
-<br>I am eagerly learning various tools and technologies that would help me uncover hidden insights in a dataset. 
+I am eagerly learning various tools and technologies that would help me uncover hidden insights in a dataset. 
 
-- 📚 I'm currently pursuing my BCA degree at <ul><b>KANNUR UNIVERSITY</b></ul>.
+- 📚 I'm currently pursuing my BCA degree at **KANNUR UNIVERSITY**.
 - 💡 My interests lie in exploring data-driven solutions and creating meaningful projects.
 - 🌱 I'm continuously learning and growing my skills in data science and aims to step into Artificial Intelligence.
 
