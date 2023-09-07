@@ -15,7 +15,7 @@ I am eagerly learning various tools and technologies that would help me uncover 
 - 🌱 I'm continuously learning and growing my skills in data science and aims to step into Artificial Intelligence.
 
 
-I'm always open to collaborating on interesting projects or discussing data-related topics. Feel free to connect with me:
+I'm always open to collaborating on interesting projects or discussing various related topics. Feel free to connect with me:
 
 - [LinkedIn]( https://www.linkedin.com/in/gopikrishnan-p-v-b51616239)
 - [Email](gopikrishnanpv9@gmail.com)
