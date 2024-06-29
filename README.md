@@ -2,18 +2,33 @@
 
 ## About Me
 
-I'm **Gopikrishnan P V**, a final year BCA student with a passion for <br>
-<i> data science, 
-Python, data analysis,
-machine learning,
-and mathematics.</i>
-I'm enthusiastic about leveraging data to derive insights and solve real-world problems.
-I am eagerly learning various tools and technologies that would help me uncover hidden insights in a dataset. 
+I'm **Gopikrishnan P V**, 
+🚀 Passionate Full-Stack Web Developer specializing in ASP.NET Core and Angular. With a knack for building robust, scalable, 
+and user-friendly applications, I thrive on turning complex problems into elegant solutions.
 
-- 📚 I'm currently pursuing my BCA degree at **KANNUR UNIVERSITY**.
-- 💡 My interests lie in exploring data-driven solutions and creating meaningful projects.
-- 🌱 I'm continuously learning and growing my skills in data science and aims to step into Artificial Intelligence.
+🔧 Tech Stack:
 
+Frontend: Angular, TypeScript, HTML5, CSS3, Bootstrap
+Backend: ASP.NET Core, C#, Entity Framework
+Database: SQL Server, MySQL
+Tools: Visual Studio, Visual Studio Code, Git
+
+📚 Experience:
+
+A fresher  in full-stack development.
+Developing multiple high-impact web applications across various industries.
+Strong advocate for clean code, best practices, and continuous learning.
+
+🌱 Currently Learning:
+
+Advanced topics in microservices architecture and cloud-native development.
+New frameworks and libraries to stay at the forefront of technology trends.
+
+💬 Ask me about:
+
+Best practices in full-stack development.
+Optimizing performance and scalability of web applications.
+Anything tech-related! I love sharing knowledge and learning from the community.
 
 I'm always open to collaborating on interesting projects or discussing various related topics. Feel free to connect with me:
 
